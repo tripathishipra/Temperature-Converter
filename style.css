@@ -47,7 +47,7 @@ body {
   .inp:hover {
     outline: none;
     border-color: rgb(255, 8, 144);
-    box-shadow: 0 0 4px rgba(255, 8, 144, 0.5);
+    box-shadow: 0 0 4px rgba(255, 4, 142, 0.5);
     transform: translateY(-4px);
   }
   

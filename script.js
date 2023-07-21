@@ -39,4 +39,3 @@ function fun1() {
 
 //     cel.value = c;
 // })
-
